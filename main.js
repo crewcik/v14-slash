@@ -10,3 +10,5 @@ console.log('Token Girdi')
 let log = console.log()
 
 let crew_cik = require('croxydb')
+
+// Komut test amaçlıdır..
