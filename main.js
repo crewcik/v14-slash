@@ -5,3 +5,6 @@ let token = crewcon.token;
 
 crew.login(token)
 console.log('Token Girdi')
+
+
+let log = console.log()
