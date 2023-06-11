@@ -1,0 +1,15 @@
+{
+  "name": "v14-crewcik",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crew.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+}
